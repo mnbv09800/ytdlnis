@@ -3,7 +3,7 @@
 	YTDLnis
 </h1>
 
-<div align="center">
+<div align="center"> 
 	English
 	&nbsp;&nbsp;| &nbsp;&nbsp;
 	<a href="https://github.com/deniscerri/ytdlnis/blob/main/docs/README-sq.md">Shqip</a>
